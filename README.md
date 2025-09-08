@@ -26,8 +26,7 @@ N - Prints a line break
 Storage:
 X - Stores the current value in the storage list
 G - Pops a value from storage
-
-
+C - Clears the storage list
 
 ---
 Debugging:
