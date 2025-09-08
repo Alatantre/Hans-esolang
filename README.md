@@ -19,7 +19,7 @@ R - Resets value back to 0
 ---
 I/O stuff:
 I - Reads input from the user
-P - Prints the ASCII character corresponding to value to the console (ex: value = 72, P would print "H")
+P - Prints value as an ASCII character 
 N - Prints a line break
 
 ---
@@ -40,8 +40,7 @@ Hello World:
 AAMMMMMAAAAAAAAPMSSSSSSSSSSSSSSSSS
 SSSSSSSSSSSSSSSSSSSSSSSSSSPAAAAAAAPPAAAP
 HHAAAAPMAAAAAAAAAAAAAAAAAAAAAAAPHHAAAMMAAA
-AAAAAAAAPAAAPSSSSSSPSSSSSSSSP
-
+AAAAAAAAPAAAPSSSSSSPSSSSSSSS
 Echo:
 IP
 
@@ -50,6 +49,4 @@ IXRDGP
 
 Counting to 10:
 ADADADADADADADADADAD
-
-
 
