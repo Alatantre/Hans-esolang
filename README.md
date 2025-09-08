@@ -15,6 +15,7 @@ S - Subtracts 1 from value
 M - Multipies value by 2
 H - Divides value by 2
 R - Resets value back to 0
+
 ---
 I/O stuff:
 I - Reads input from the user
